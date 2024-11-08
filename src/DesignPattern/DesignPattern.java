@@ -1,3 +1,5 @@
+package DesignPattern;
+
 public class DesignPattern {
 
     public static void main(String[] args) {
