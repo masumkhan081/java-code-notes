@@ -1,4 +1,3 @@
-package Basic;
 
 public class Operators {
 
